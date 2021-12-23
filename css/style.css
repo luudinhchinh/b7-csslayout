@@ -1,0 +1,126 @@
+.head {
+    width: 100%;
+    height: 66px;
+
+}
+.logo {
+    width: 30%;
+    height: 66px;
+    background: blue;
+    float: left;
+}
+.banner {
+    width: 70%;
+    height: 66px;
+    background: rgb(105, 33, 36);
+    float: left;
+}
+.nav {
+    clear: both;
+    width: 100%;
+    height: 30px;
+    background: lightseagreen;
+    margin-top: 5px;
+   
+}
+.content {
+    margin-top: 5px;
+    width: 100%;
+    height: 700px;
+    
+}
+.left {
+    width: 15%;
+    height: 700px;
+   
+    float: left;
+}
+.left-top {
+    width: 100%;
+    height: 300px;
+    background: lightseagreen;
+}
+.left-bot {
+    width: 100%;
+    height: 200px;
+    background: maroon;
+    margin-top: 5px;
+}
+.mid {
+    width: 60%;
+    height: 700px;
+    float: left;
+}
+.mid-top {
+    width: 100%;
+    height: 175px;
+    float: left;
+}
+.mid-top1 {
+    width: 40%;
+    height:170px ;
+    background: mistyrose;
+    
+    float: left;
+   
+}
+.mid-top2 {
+    width: 60%;
+    height: 170px;
+    background: rgb(99, 117, 141);
+    float: left;
+    
+}
+.mid-bot {
+    width: 100%;
+    height: 670px;
+    margin-top: 5px;
+}
+.mid-bot1 {
+    width: 33%;
+    height: 230px;
+    background: lightseagreen;
+    float: right;
+}
+.mid-bot2 {
+    width: 33%;
+    height: 230px;
+    background: rgb(224, 114, 191);
+    float: right;
+}
+.mid-bot3 {
+    width: 33%;
+    height: 230px;
+    background: rgb(228, 144, 95);
+    float: right;
+}
+.mid-bot4 {
+    width: 33%;
+    height: 230px;
+    background: rgb(143, 146, 146);
+    float: right;
+}
+.mid-bot5 {
+    width: 33%;
+    height: 230px;
+    background: rgb(15, 71, 69);
+    float: right;
+}
+.mid-bot6 {
+    width: 33%;
+    height: 230px;
+    background: rgb(241, 130, 154);
+    float: right;
+}
+.right {
+    width: 25%;
+    height: 700px;
+    background: rgb(90, 26, 47);
+    float: left;
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    background: salmon;
+    clear: both;
+}
